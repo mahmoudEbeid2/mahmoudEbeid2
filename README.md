@@ -72,7 +72,6 @@ A platform that allows small business owners to:
 
 [![LinkedIn](https://img.shields.io/badge/-Mahmoud%20Ebeid-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-ebead/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoud.ebeid2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mahmoudEbeid2)
 
 ---
 
