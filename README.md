@@ -2,6 +2,10 @@
 <h3 align="center">Full-Stack JavaScript & Cross-Platform Mobile Developer</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full-Stack+JavaScript+Developer;React+%7C+Next.js+%7C+Node.js;Cross-Platform+Mobile+%7C+React+Native+%7C+Flutter;Always+learning+new+technologies+🚀" alt="Typing Animation" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoudEbeid2&label=Profile%20views&color=6c63ff&style=flat" alt="mahmoudEbeid2" />
 </p>
 
@@ -14,22 +18,6 @@
 
 ---
 
-## 🚀 Current Project
-
-> 💡 **Mini E-Commerce Website Builder for Small Businesses**  
-A platform that allows small business owners to:
-- Create their own mini-store websites
-- Manage products and orders
-- Handle online payments
-- Customize the look and feel of their store
-
-**Tech Stack:**  
-`Next.js`, `PostgreSQL`, `Server Actions`, `Zod`, `NextAuth`, `Tailwind`, `React`, `REST API`, `Stripe`, `Node.js`, `React Native`
-
-
-
----
-
 ## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
@@ -38,6 +26,7 @@ A platform that allows small business owners to:
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
@@ -50,12 +39,17 @@ A platform that allows small business owners to:
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| 🌾 **Crop Yield Prediction** | Predict crop production using environmental data & ML | Python, Flask, Firebase, Flutter | [Live Demo](https://sweet-ganache-4826c0.netlify.app/) |
-| 🎬 **Movie App** | Search & favorite movies | Next.js, MongoDB, Context API | [Live Demo](https://movie-app-peach-psi.vercel.app/) |
-| 🛍️ **E-commerce App (Web)** | Storefront with products, cart, favorites | React, Redux Toolkit, Bootstrap | [Live Demo](https://next-project-2izb.vercel.app/) |
-| 📱 **Store App (Mobile)** | Mobile app for browsing products | React Native, REST API | [GitHub](https://github.com/mahmoudEbeid2/store-native) |
-| 👤 **User Management Dashboard** | CRUD users + Google Login | Next.js, MongoDB, Bootstrap | [Live Demo](https://user-mange-etgo.vercel.app/) |
-| ✅ **To-Do List** | Simple task tracker | TypeScript, Bootstrap | [Live Demo](https://jolly-florentine-2a5b7b.netlify.app/) |
+| 🛠️ **SaaS – Mini E-Commerce Website Builder** | Platform for small businesses to create mini-stores, manage products/orders, handle payments, and customize design | Next.js, PostgreSQL, Node.js, Tailwind, Stripe, NextAuth, Zod, React Native | [Preview](https://portfolio-mahmoud0.vercel.app/#project-dokany-saas-ecommerce) |
+| 🌾 **Crop Yield Prediction** | Predict crop production using environmental data & ML | Python, Flask, Firebase, Flutter | [Preview](https://portfolio-mahmoud0.vercel.app/#project-ai-crop-yield-prediction) |
+| 🎬 **Movie App (React Native & Flutter)** | Cross-platform movie app for searching & favoriting | React Native, Flutter, REST API | [Preview](https://portfolio-mahmoud0.vercel.app/#project-movie-app-react-native-flutter) |
+| 🎬 **Movie App (Next.js)** | Web app for searching & favoriting movies | Next.js, MongoDB, Context API | [Preview](https://portfolio-mahmoud0.vercel.app/#project-movie-app-nextjs-mongodb) |
+| 🌳 **Interactive Family Tree** | Interactive visualization of family relationships | React, CSS, JS | [Preview](https://portfolio-mahmoud0.vercel.app/#project-interactive-family-tree-react) |
+| 📱 **E-commerce Mobile App** | Mobile shopping experience | React Native, REST API | [Preview](https://portfolio-mahmoud0.vercel.app/#project-ecommerce-mobile-app) |
+| 🛍️ **E-commerce Web (React & Redux)** | Storefront with products, cart, favorites | React, Redux Toolkit, Axios, Bootstrap | [Preview](https://portfolio-mahmoud0.vercel.app/#project-ecommerce-react-redux-axios) |
+| 💻 **Electronics Store Website** | Full electronics store with categories & cart | HTML, CSS, JS, Bootstrap | [Preview](https://portfolio-mahmoud0.vercel.app/#project-electronics-ecommerce-website) |
+| 🍦 **Ice Cream Website (27 pages)** | Large multi-page company website | HTML, CSS, JS, Bootstrap | [Preview](https://portfolio-mahmoud0.vercel.app/#project-ice-cream-website-27-pages) |
+| ✅ **To-Do List (TypeScript)** | Task tracker with DOM manipulation | TypeScript, Bootstrap | [Preview](https://portfolio-mahmoud0.vercel.app/#project-todo-list-typescript) |
+| 🎨 **Figma to Landing Page** | Converted Figma design to responsive landing page | HTML, CSS, JS, Bootstrap | [Preview](https://portfolio-mahmoud0.vercel.app/#project-figma-landing-page-conversion) |
 
 ---
 
