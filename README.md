@@ -2,8 +2,9 @@
 <h3 align="center">Full-Stack JavaScript & Cross-Platform Mobile Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full-Stack+JavaScript+Developer;React+%7C+Next.js+%7C+Node.js;Cross-Platform+Mobile+%7C+React+Native+%7C+Flutter;Always+learning+new+technologies+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Developer;React+%7C+Next.js+%7C+Node.js;Cross-Platform+Mobile+%7C+React+Native+%7C+Flutter;Always+learning+new+technologies+🚀" alt="Typing Animation" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoudEbeid2&label=Profile%20views&color=6c63ff&style=flat" alt="mahmoudEbeid2" />
