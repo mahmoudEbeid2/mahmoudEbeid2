@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Rabie</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Ebeid</h1>
 <h3 align="center">Full-Stack JavaScript & Cross-Platform Mobile Developer</h3>
 
 <p align="center">
