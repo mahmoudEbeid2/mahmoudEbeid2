@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### ⚙️ **Backend & Database**
@@ -45,7 +44,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 📱 **Mobile & DevOps**
@@ -55,7 +53,6 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
@@ -63,14 +60,14 @@
 
 ## 🌟 **FEATURED PROJECTS**
 
-| Project | Key Tech Stack | Detailed Capabilities | Live Review |
+| Project | Key Tech Stack | Capabilities | Review |
 | :--- | :--- | :--- | :---: |
-| 🏗️ **Dokany SaaS** | ![Node](https://img.shields.io/badge/-Node-339933) ![React](https://img.shields.io/badge/-React-61DAFB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) | **Merchant Ecosystem** - Multi-tenant builder, Stripe, Custom Mail Servers. | [Review](https://portfolio-mahmoud0.vercel.app/#project-dokany-saas-ecommerce) |
-| 💳 **PayNest** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748) ![Redis](https://img.shields.io/badge/-Redis-DC382D) | **Financial Core** - ACID transaction-ledgers, Redis Lock, AML fraud checks. | [Review](https://portfolio-mahmoud0.vercel.app/#project-paynest-wallet-engine) |
-| 📱 **Movie App** | ![RN](https://img.shields.io/badge/-React_Native-61DAFB) ![JS](https://img.shields.io/badge/-JS-F7DF1E) ![Expo](https://img.shields.io/badge/-Expo-000020) | **Cross-Platform Mobile** - Search, Favorites (AsyncStorage), Real-time sync. | [Review](https://portfolio-mahmoud0.vercel.app/#project-movie-app-react-native-flutter) |
-| 🎬 **Filme Site** | ![Next](https://img.shields.io/badge/-Next.js-000) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Bootstrap](https://img.shields.io/badge/-BS-7952B3) | **Modern Web Hub** - Server-side rendering, SEO friendly, TMDB Integration. | [Review](https://portfolio-mahmoud0.vercel.app/#project-movie-app-nextjs-mongodb) |
-| 🛡️ **egypt-natid** | ![TS](https://img.shields.io/badge/-TS-3178C6) ![Node](https://img.shields.io/badge/-Node-339933) ![Jest](https://img.shields.io/badge/-Jest-C21325) | **Validation Framework** - Mathematical Checksum (Modulo 11), High-perf parser. | [Review](https://portfolio-mahmoud0.vercel.app/#project-egypt-natid-library) |
-| 📍 **GeoTrack** | ![Socket](https://img.shields.io/badge/-Socket.io-010101) ![RN](https://img.shields.io/badge/-RN-61DAFB) ![Maps](https://img.shields.io/badge/-Maps-4285F4) | **Real-Time GPS** - Live location sync, Background tracking, Map viz. | [Review](https://portfolio-mahmoud0.vercel.app/#project-geotrack-real-time-tracking) |
+| 🏗️ **Dokany SaaS** | ![Node](https://img.shields.io/badge/-Node-339933) ![React](https://img.shields.io/badge/-React-61DAFB) ![RN](https://img.shields.io/badge/-RN-61DAFB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) | **Full Ecosystem** - Multi-tenant merchant builder (Web + Mobile App), Stripe, Mail Server. | [Review](https://portfolio-mahmoud0.vercel.app/#project-dokany-saas-ecommerce) |
+| 💳 **PayNest** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748) ![Redis](https://img.shields.io/badge/-Redis-DC382D) | **Financial Core** - ACID ledgers, Redis distributed locking, AML fraud monitoring. | [Review](https://portfolio-mahmoud0.vercel.app/#project-paynest-wallet-engine) |
+| 📱 **Movie App** | ![RN](https://img.shields.io/badge/-React_Native-61DAFB) ![JS](https://img.shields.io/badge/-JS-F7DF1E) ![Expo](https://img.shields.io/badge/-Expo-000020) | **Mobile Hub** - AsyncStorage persistence, Search, Favorites, External Movie API. | [Review](https://portfolio-mahmoud0.vercel.app/#project-movie-app-react-native-flutter) |
+| 🎬 **Filme Site** | ![Next](https://img.shields.io/badge/-Next.js-000) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Bootstrap](https://img.shields.io/badge/-BS-7952B3) | **Modern Web** - SSR/SSG, SEO-friendly routing, Dynamic TMDB data. | [Review](https://portfolio-mahmoud0.vercel.app/#project-movie-app-nextjs-mongodb) |
+| 🛡️ **egypt-natid** | ![TS](https://img.shields.io/badge/-TS-3178C6) ![Node](https://img.shields.io/badge/-Node-339933) ![Jest](https://img.shields.io/badge/-Jest-C21325) | **Data Framework** - Mathematical Checksum (Modulo 11), High-perf parsing logic. | [Review](https://portfolio-mahmoud0.vercel.app/#project-egypt-natid-library) |
+| 📍 **GeoTrack** | ![Socket](https://img.shields.io/badge/-Socket.io-010101) ![RN](https://img.shields.io/badge/-RN-61DAFB) ![Maps](https://img.shields.io/badge/-Maps-4285F4) | **Real-Time GPS** - Live track, Background GPS, Socket-based sync. | [Review](https://portfolio-mahmoud0.vercel.app/#project-geotrack-real-time-tracking) |
 
 ---
 
@@ -92,7 +89,7 @@
 </p>
 
 <h3 align="center">
-  🚀 Check out my Full Portfolio: <a href="https://portfolio-mahmoud0.vercel.app"><b>portfolio-mahmoud0.vercel.app</b></a>
+  🚀 Explore Full Portfolio: <a href="https://portfolio-mahmoud0.vercel.app"><b>portfolio-mahmoud0.vercel.app</b></a>
 </h3>
 
 ---
