@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ebeid</h1>
-<h3 align="center">Full-Stack JavaScript & Cross-Platform Mobile Architect</h3>
+<h3 align="center">Full-Stack JavaScript Engineer | SaaS & Backend Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Architect;SaaS+System+Builder;NestJS+%7C+Next.js+%7C+Node.js;React+Native+%7C+Flutter+Expert;Building+High-Performance+Solutions+🚀" alt="Typing Animation" />
