@@ -1,63 +1,63 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ebeid</h1>
-<h3 align="center">Full-Stack JavaScript & Cross-Platform Mobile Architect</h3>
+<h3 align="center">Full-Stack JavaScript & Cross-Platform Mobile Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Architect;SaaS+System+Builder;NestJS+%7C+Next.js+%7C+Node.js;React+Native+%7C+Flutter+Expert;Building+Scalable+Financial+Solutions+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Architect;SaaS+System+Builder;NestJS+%7C+Next.js+%7C+Node.js;React+Native+%7C+Flutter+Expert;Building+High-Performance+Solutions+🚀" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoudEbeid2&label=Profile%20views&color=6c63ff&style=flat-square" alt="mahmoudEbeid2" />
-  <img src="https://img.shields.io/github/followers/mahmoudEbeid2?label=Followers&style=social" alt="Followers" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 **Computer Science Graduate** (2020 - 2024).
-- 🎓 **ITI Graduate** – Front-End & Cross-Platform Mobile Development Track.
-- 🚀 Expert in building **Multi-tenant SaaS Platforms** and **Financial Engines**.
-- 🛠️ Specialist in **ACID Transactions**, **Distributed Locking**, and **Background Job Processing**.
-- 📱 High-performance Mobile Apps with **React Native** and **Flutter**.
+### 🚀 **LEGENDRY SKILLS & EXPERTISE**
+- 🌟 **Multi-Tenant SaaS Architect**: Expert in building scalable stores using Next.js and PostgreSQL.
+- 💳 **Fintech Enthusiast**: Deep knowledge in ACID transactions, Distributed Locking (Redis), and BullMQ.
+- 📱 **Cross-Platform Specialist**: Seamlessly delivering high-performance mobile apps for iOS & Android.
+- ⚙️ **Clean Code Advocate**: Implementing SOLID principles, Design Patterns (MVC), and absolute Type-Safety.
 
 ---
 
-## 🛠 Mastering The Stack
+## 🛠 **MASTERED TECH STACK**
 
 <div align="center">
 
-| **Category** | **Full Technologies** |
+| **Category** | **Technologies** |
 | :--- | :--- |
-| **Frontend/Mobile** | `React`, `Next.js`, `React Native`, `Flutter`, `Redux Toolkit`, `Expo`, `TailwindCSS`, `Bootstrap`, `Sass` |
-| **Backend/Cloud** | `Node.js`, `NestJS`, `Express.js`, `TypeScript`, `Prisma`, `Socket.io`, `BullMQ`, `Firebase Auth` |
-| **Databases** | `PostgreSQL`, `MongoDB`, `Redis`, `MySQL`, `MS SQL`, `Mongoose` |
-| **Tools/Others** | `Git`, `Docker`, `Jest`, `Postman`, `NPM Publishing`, `REST APIs`, `Figma-to-Code` |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-000?logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-000?logo=redux) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?logo=tailwindcss) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js) ![NestJS](https://img.shields.io/badge/-NestJS-000?logo=nestjs) ![Typescript](https://img.shields.io/badge/-TypeScript-000?logo=typescript) ![Socket.io](https://img.shields.io/badge/-Socket.io-000?logo=socket.io) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb) ![Prisma](https://img.shields.io/badge/-Prisma-000?logo=prisma) ![Redis](https://img.shields.io/badge/-Redis-000?logo=redis) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-000?logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-000?logo=flutter) ![Expo](https://img.shields.io/badge/-Expo-000?logo=expo) |
+| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-000?logo=docker) ![Jest](https://img.shields.io/badge/-Jest-000?logo=jest) ![Git](https://img.shields.io/badge/-Git-000?logo=git) ![Postman](https://img.shields.io/badge/-Postman-000?logo=postman) |
 
 </div>
 
 ---
 
-## 🌟 Projects Showcase
+## 🔥 **FEATURED PROJECTS**
 
-| Project | Description | Full Tech Stack | Live Review |
-|:--- |:--- |:--- |:---:|
-| 🏗️ **Dokany SaaS** | **SaaS Merchant Builder** - Manage stores, orders, and custom mail servers. | `Node.js`, `PostgreSQL`, `React.js`, `Tailwind`, `Bootstrap`, `React Native`, `Stripe`, `Multi-Tenant`, `Express.js`, `In-house Mail Server` | [Preview](https://portfolio-mahmoud0.vercel.app/#project-dokany-saas-ecommerce) |
-| 💳 **PayNest Engine** | **Financial Ledger Engine** - Secure wallet transfers with AML fraud detection & locking. | `NestJS`, `Prisma`, `PostgreSQL`, `Redis`, `BullMQ`, `Socket.io`, `TypeScript`, `PDFKit`, `JWT RBAC` | [Preview](https://portfolio-mahmoud0.vercel.app/#project-paynest-wallet-engine) |
-| 🎬 **Movie Site** | **Next.js Movie Hub** - Server-side rendering, movie search, and persistent user favorites. | `Next.js`, `MongoDB`, `Context API`, `Bootstrap`, `CSS Modules`, `TMDB API`, `SSG/SSR` | [Preview](https://portfolio-mahmoud0.vercel.app/#project-movie-app-nextjs-mongodb) |
-| 📍 **GeoTrack** | **Real-Time Geolocation** - Live GPS tracking, map polyline, and instant socket sync. | `Node.js`, `Express.js`, `TypeScript`, `MongoDB`, `Socket.IO`, `React Native`, `Expo`, `Google Maps API`, `Axios` | [Preview](https://portfolio-mahmoud0.vercel.app/#project-geotrack-real-time-tracking) |
-| 🛡️ **egypt-natid** | **Validation Framework** - MATHEMATICAL check for Egyptian IDs with demographic data parsing. | `TypeScript`, `Node.js`, `RegEx`, `Modulo 11 Checksum`, `CLI Interface`, `Jest Testing`, `Algorithms` | [Preview](https://portfolio-mahmoud0.vercel.app/#project-egypt-natid-library) |
+| Project | Description | Stack Icons | Preview |
+| :--- | :--- | :--- | :---: |
+| 🏗️ **Dokany SaaS** | **Merchant Builder** - Multi-tenant, Stripe, Custom Mail Server. | ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![React](https://img.shields.io/badge/-React-61DAFB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF) | [Review](https://portfolio-mahmoud0.vercel.app/#project-dokany-saas-ecommerce) |
+| 💳 **PayNest** | **Financial Engine** - ACID Transfers, Redis Lock, AML Monitoring. | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748) ![Redis](https://img.shields.io/badge/-Redis-DC382D) ![BullMQ](https://img.shields.io/badge/-BullMQ-FF4081) | [Review](https://portfolio-mahmoud0.vercel.app/#project-paynest-wallet-engine) |
+| 📱 **Movie App** | **Mobile Movie Hub** - AsyncStorage, Search, Favorites, External API. | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB) ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E) ![Expo](https://img.shields.io/badge/-Expo-000020) | [Review](https://portfolio-mahmoud0.vercel.app/#project-movie-app-react-native-flutter) |
+| 🎬 **Movie Site** | **Next.js Web Hub** - SSR, Dynamic Routing, MongoDB, TMDB API. | ![Next.js](https://img.shields.io/badge/-Next.js-000000) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3) | [Review](https://portfolio-mahmoud0.vercel.app/#project-movie-app-nextjs-mongodb) |
+| 🛡️ **egypt-natid** | **Validation Lib** - Modulo 11 check, 100k records/ms parsing. | ![TypeScript](https://img.shields.io/badge/-TS-3178C6) ![Node.js](https://img.shields.io/badge/-Node-339933) ![Jest](https://img.shields.io/badge/-Jest-C21325) | [Review](https://portfolio-mahmoud0.vercel.app/#project-egypt-natid-library) |
+| 📍 **GeoTrack** | **Real-Time GPS** - Background tracking, Polyline, Socket updates. | ![Socket.io](https://img.shields.io/badge/-Socket.io-010101) ![React Native](https://img.shields.io/badge/-RN-61DAFB) ![Google Maps](https://img.shields.io/badge/-Maps-4285F4) | [Review](https://portfolio-mahmoud0.vercel.app/#project-geotrack-real-time-tracking) |
 
 ---
 
-## 📊 Performance Metrics
+## 📊 **GITHUB PERFORMANCE**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudEbeid2&show_icons=true&theme=react&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudEbeid2&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudEbeid2&show_icons=true&theme=react&height=180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudEbeid2&layout=compact&theme=react&height=180" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 **LET'S BUILD SOMETHING EPIC!**
 
 <p align="center">
 <a href="https://linkedin.com/in/mahmoud-ebead" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -66,7 +66,7 @@
 </p>
 
 <h3 align="center">
-  🚀 View Full Portfolio: <a href="https://portfolio-mahmoud0.vercel.app"><b>portfolio-mahmoud0.vercel.app</b></a>
+  🌍 Visit My Portfolio: <a href="https://portfolio-mahmoud0.vercel.app"><b>portfolio-mahmoud0.vercel.app</b></a>
 </h3>
 
 ---
