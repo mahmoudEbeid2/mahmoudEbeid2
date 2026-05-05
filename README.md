@@ -63,22 +63,6 @@
 
 ---
 
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmoudEbeid2&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudEbeid2&theme=react-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudEbeid2&theme=react" />
-</p>
-
----
-
 ## 📫 **CONNECT WITH ME**
 
 <p align="center">
